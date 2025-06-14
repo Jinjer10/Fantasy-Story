@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "a";
+  src: url("../Assets/fonts/samurai_heb.ttf") format("truetype");
+}
+
+*{
+    font-family: "a";
+   font-size: 2cm;
+   
+}
+ 
