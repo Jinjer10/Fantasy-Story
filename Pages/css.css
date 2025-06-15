@@ -1,10 +1,14 @@
 @font-face {
   font-family: "a";
-  src: url("../Assets/fonts/samurai_heb.ttf") format("truetype");
+  src: url("../Assets/fonts/Hebrew/ANARB___.TTF") format("truetype");
+}
+@font-face {
+  font-family: "b";
+  src: url("../Assets/fonts/English/Signtelly-Regular.ttf") format("truetype");
 }
 
 *{
-    font-family: "a";
+    font-family: "a", "b";
    font-size: 2cm;
    
 }
